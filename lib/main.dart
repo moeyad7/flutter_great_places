@@ -7,7 +7,7 @@ import './screens/add_place_screen.dart';
 import './screens/places_detail_screen.dart';
 
 void main() => runApp(MyApp());
-
+//Warning the code is missing the key and won't work except with it and the extra stuff in android and ios folders
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
